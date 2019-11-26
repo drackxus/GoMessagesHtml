@@ -1,0 +1,48 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 18 Nov 2019 16:10:10 at https://mannatthemes.com/metrica/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mannatthemes.com/metrica/index.html -O1 "C:\My Web Sites\ddk4" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:33:24	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/hospital-horizontal/projects/projects-index.html (from https://mannatthemes.com/metrica/hospital-horizontal/hospital/hospital-index.html)
+16:35:01	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/hospital-vertical/projects/projects-index.html (from https://mannatthemes.com/metrica/hospital-vertical/hospital/hospital-index.html)
+16:47:17	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/light/app-ecommerce-checkout.html (from https://mannatthemes.com/metrica/light/ecommerce/ecommerce-cart.html)
+16:47:24	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/light/others/cropped.jpg (from https://mannatthemes.com/metrica/light/others/forms-img-crop.html)
+16:47:36	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/dark/app-ecommerce-checkout.html (from https://mannatthemes.com/metrica/dark/ecommerce/ecommerce-cart.html)
+16:47:44	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/dark/others/cropped.jpg (from https://mannatthemes.com/metrica/dark/others/forms-img-crop.html)
+16:48:01	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/horizontal/app-ecommerce-checkout.html (from https://mannatthemes.com/metrica/horizontal/ecommerce/ecommerce-cart.html)
+16:48:08	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/horizontal/others/cropped.jpg (from https://mannatthemes.com/metrica/horizontal/others/forms-img-crop.html)
+16:48:23	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/rtl/app-ecommerce-checkout.html (from https://mannatthemes.com/metrica/rtl/ecommerce/ecommerce-cart.html)
+16:48:31	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/rtl/others/cropped.jpg (from https://mannatthemes.com/metrica/rtl/others/forms-img-crop.html)
+16:48:49	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/dark-horizontal/assets/images/products/1.jpg (from https://mannatthemes.com/metrica/dark-horizontal/ecommerce/ecommerce-product-list.html)
+16:48:49	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/dark-horizontal/assets/images/products/3.jpg (from https://mannatthemes.com/metrica/dark-horizontal/ecommerce/ecommerce-product-list.html)
+16:48:49	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/dark-horizontal/assets/images/products/2.jpg (from https://mannatthemes.com/metrica/dark-horizontal/ecommerce/ecommerce-product-list.html)
+16:48:49	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/dark-horizontal/app-ecommerce-checkout.html (from https://mannatthemes.com/metrica/dark-horizontal/ecommerce/ecommerce-cart.html)
+16:48:55	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/dark-horizontal/others/cropped.jpg (from https://mannatthemes.com/metrica/dark-horizontal/others/forms-img-crop.html)
+16:49:10	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/dark-rtl/app-ecommerce-checkout.html (from https://mannatthemes.com/metrica/dark-rtl/ecommerce/ecommerce-cart.html)
+16:49:17	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/dark-rtl/others/cropped.jpg (from https://mannatthemes.com/metrica/dark-rtl/others/forms-img-crop.html)
+16:49:29	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/hospital-horizontal/assets/plugins/fullcalendar/css/fullcalendar.min.css (from https://mannatthemes.com/metrica/hospital-horizontal/hospital/events.html)
+16:49:29	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/hospital-horizontal/assets/plugins/fullcalendar/js/fullcalendar.min.js (from https://mannatthemes.com/metrica/hospital-horizontal/hospital/events.html)
+16:49:33	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/hospital-horizontal/others/cropped.jpg (from https://mannatthemes.com/metrica/hospital-horizontal/others/forms-img-crop.html)
+16:49:37	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/hospital-horizontal/analytics/analytics-index.html (from https://mannatthemes.com/metrica/hospital-horizontal/authentication/auth-login.html)
+16:49:48	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/hospital-vertical/assets/plugins/fullcalendar/css/fullcalendar.min.css (from https://mannatthemes.com/metrica/hospital-vertical/hospital/events.html)
+16:49:48	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/hospital-vertical/assets/plugins/fullcalendar/js/fullcalendar.min.js (from https://mannatthemes.com/metrica/hospital-vertical/hospital/events.html)
+16:49:54	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/hospital-vertical/others/cropped.jpg (from https://mannatthemes.com/metrica/hospital-vertical/others/forms-img-crop.html)
+16:49:55	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/hospital-vertical/analytics/analytics-index.html (from https://mannatthemes.com/metrica/hospital-vertical/authentication/auth-login.html)
+16:50:05	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/horizontal-2/app-ecommerce-checkout.html (from https://mannatthemes.com/metrica/horizontal-2/ecommerce/ecommerce-cart.html)
+16:50:10	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/horizontal-2/others/cropped.jpg (from https://mannatthemes.com/metrica/horizontal-2/others/forms-img-crop.html)
+16:50:24	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/vertical-2/app-ecommerce-checkout.html (from https://mannatthemes.com/metrica/vertical-2/ecommerce/ecommerce-cart.html)
+16:50:31	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/vertical-2/others/cropped.jpg (from https://mannatthemes.com/metrica/vertical-2/others/forms-img-crop.html)
+16:50:43	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/material-horizontal-2/app-ecommerce-checkout.html (from https://mannatthemes.com/metrica/material-horizontal-2/ecommerce/ecommerce-cart.html)
+16:50:48	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/material-horizontal-2/others/cropped.jpg (from https://mannatthemes.com/metrica/material-horizontal-2/others/forms-img-crop.html)
+16:51:03	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/material-vertical-2/app-ecommerce-checkout.html (from https://mannatthemes.com/metrica/material-vertical-2/ecommerce/ecommerce-cart.html)
+16:51:11	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/material-vertical-2/others/cropped.jpg (from https://mannatthemes.com/metrica/material-vertical-2/others/forms-img-crop.html)
+16:51:23	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/light-material-vertical/app-ecommerce-checkout.html (from https://mannatthemes.com/metrica/light-material-vertical/ecommerce/ecommerce-cart.html)
+16:51:31	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/light-material-vertical/others/cropped.jpg (from https://mannatthemes.com/metrica/light-material-vertical/others/forms-img-crop.html)
+16:51:43	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/dark-material/app-ecommerce-checkout.html (from https://mannatthemes.com/metrica/dark-material/ecommerce/ecommerce-cart.html)
+16:51:51	Error: 	"Not Found" (404) at link https://mannatthemes.com/metrica/dark-material/others/cropped.jpg (from https://mannatthemes.com/metrica/dark-material/others/forms-img-crop.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 41 minutes 42 seconds : 6051 links scanned, 6013 files written (349101840 bytes overall) [303518193 bytes received at 121310 bytes/sec], 60219910 bytes transferred using HTTP compression in 1467 files, ratio 21%, 55.0 requests per connection
+(37 errors, 0 warnings, 0 messages)

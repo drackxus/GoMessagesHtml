@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cryptonator.com	TRUE	/	FALSE	1999999999	__cfduid	d4bfc1c3cd50d0c1112b5a65280c5b9261574111481
+.apexcharts.com	TRUE	/	FALSE	1999999999	__cfduid	d6b74ac94ebb0093108ff2dd62bf41a291574112089
+
